@@ -1,0 +1,33 @@
+
+body{
+    margin: 60px;
+    
+}
+
+table, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px; 
+}
+
+thead, .c{
+    text-align: center; 
+}
+
+table{
+    width: 30%;
+    height: 20%;
+}
+
+header{
+    margin: 5px; position: relative;
+}
+
+#t1{
+    border: 1px solid;
+}
+
+#t2{
+    border: 1px solid;
+}
+    
